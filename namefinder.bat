@@ -22,4 +22,5 @@ for /r %%d in (*) do (
 
 echo Done! Total vehicles found: %count%
 echo Results saved in %outputFile%
+pause
 endlocal
